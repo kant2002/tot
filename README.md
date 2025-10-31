@@ -1,5 +1,7 @@
 # rouille
 
+![tot language](media/rust.png)
+
 Why you _cannot_ write Rust programs in your native language? Do you shy of it? Would you like to try something different, in an exotic and lovely sounding language? Would you want to bring some Kazakh hospitality to your programs?
 
 **тот** (Kazakh for _Rust_) is here to save your day, as it allows you to
@@ -59,7 +61,6 @@ here and there, and open a pull-request against the `негізгі` (Kazakh for
 `main`) branch.
 
 Be civil, don't use swear words. We should show hospitality to the visitors of this repo.
-
 
 ## Other languages
 
